@@ -1,1 +1,1 @@
-# odin-recipes
+This project will be a small website with links to simple recipes on it. This will improve my skills and teach me all that iv learned so far and how to use it.
